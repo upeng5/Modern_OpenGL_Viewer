@@ -1,5 +1,7 @@
 ## Description
 An OpenGL 4.6 model viewer made as a learning project.
+<br>
+![](https://github.com/upeng5/ParticleSystem/blob/master/example.gif)
 ## Building
 To build the project simply add the following libraries to the compiler include paths:
 <ul>
